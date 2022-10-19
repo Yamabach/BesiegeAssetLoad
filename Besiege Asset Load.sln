@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{316FB81F-B50C-1971-9EA6-556E86C7CEB9}") = "Besiege Asset Load", "Assembly-CSharp.csproj", "{D02BC27C-FB58-3C4F-8F79-925F319BFEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02BC27C-FB58-3C4F-8F79-925F319BFEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02BC27C-FB58-3C4F-8F79-925F319BFEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02BC27C-FB58-3C4F-8F79-925F319BFEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02BC27C-FB58-3C4F-8F79-925F319BFEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

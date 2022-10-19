@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1875360768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 915fc309ade5c1303583cdbbcf480041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 325c034e4b1478fb06f87a1cb5eae0e4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pack01/GNParticlePrefab.prefab
+- Assets/Pack01/FrozenPrefab.prefab
+- Assets/Pack01/BulletTrailPrefab02.prefab
+- Assets/Pack01/FirePrefab.prefab
+- Assets/Pack01/BulletTrailPrefab03.prefab
+- Assets/Pack01/TomatoPrefab.prefab
+- Assets/Pack01/GreenFlashPrefab.prefab
+- Assets/Pack01/PinkSparkPrefab.prefab
+- Assets/Pack01/BulletTrailPrefab01.prefab
+- Assets/Pack01/GreenSparkPrefab.prefab
+- Assets/Pack01/BlueFlashPrefab.prefab
+- Assets/Pack01/PinkFlashPrefab.prefab
+- Assets/Pack01/WhiteSparkPrefab.prefab
+- Assets/Pack01/ShiningPrefab.prefab
+Dependencies: []
